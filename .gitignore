@@ -1,0 +1,50 @@
+# Credentials and secrets
+.env
+.env.*
+*.key
+*.pem
+.definedge_session.json
+session_*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Data — large files and proprietary sources
+data/
+*.zip
+*.csv.gz
+bhavcopy/
+mongodb_dumps/
+
+# AlphaQuantix internal — must never enter public repo
+client_*/
+backtest_results_internal/
+proprietary_tickers.txt
+
+# Paper drafts (not code) — live on SSRN
+*.docx
+*.pdf
+draft_*.md
+P*_full_draft.md
+*_voice_pass.md
+
+# Build artifacts
+build/
+dist/

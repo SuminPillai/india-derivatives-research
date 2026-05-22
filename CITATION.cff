@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or the working papers it accompanies, please cite as below."
+type: software
+title: "India Derivatives Research: Reproducibility code for SSRN working papers on Indian financial markets"
+authors:
+  - family-names: Pillai
+    given-names: Sumin
+    orcid: "https://orcid.org/0009-0001-5302-5899"
+repository-code: "https://github.com/SuminPillai/india-derivatives-research"
+url: "https://ssrn.com/author=11504348"
+license: MIT
+version: "0.1.0"
+date-released: 2026-05-21
+keywords:
+  - quantitative finance
+  - Indian financial markets
+  - option pricing
+  - Nifty 50
+  - volatility risk premium
+  - BCJ test
+  - technical indicators
+  - LLM agents
+  - reproducibility
